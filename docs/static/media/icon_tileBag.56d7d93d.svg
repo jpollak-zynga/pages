@@ -1,0 +1,41 @@
+<svg id="icon_info" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="89" height="98" viewBox="0 0 89 98">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #678ba7;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+        filter: url(#filter-2);
+      }
+
+      .cls-3 {
+        font-size: 30.855px;
+        font-family: MuseoSansRounded-700, "Museo Sans Rounded";
+      }
+    </style>
+    <filter id="filter" x="0" y="0" width="89" height="98" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="9" in="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood result="flood" flood-color="#3a4e5e"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="52.25" y="810.25" width="51.5" height="53.75" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="2" in="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood result="flood" flood-color="#030404" flood-opacity="0.3"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle class="cls-1" cx="44.5" cy="44.5" r="44.5"/>
+  <path id="Rounded_Rectangle_8" data-name="Rounded Rectangle 8" class="cls-2" d="M63.3,814.154l21.065-3.705A13.367,13.367,0,0,1,99.846,821.3l3.705,21.066A13.368,13.368,0,0,1,92.7,857.846l-21.065,3.705A13.367,13.367,0,0,1,56.154,850.7l-3.706-21.066A13.369,13.369,0,0,1,63.3,814.154Z" transform="translate(-34 -793)"/>
+  <text id="A" class="cls-3" transform="translate(35.072 57.284) rotate(-9.977) scale(1.171)">A</text>
+</svg>
