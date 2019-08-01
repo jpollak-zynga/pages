@@ -1,0 +1,1 @@
+{"version":3,"sources":["SlideGrid.css"],"names":[],"mappings":"AAAA,YACI,wBAAiB,CAAjB,qBAAiB,CAAjB,oBAAiB,CAAjB,gBAAiB,CACjB,iBACJ,CAEA,cACI,iBACJ,CAEA,UACI,SACJ","file":"2.387e9a80.chunk.css","sourcesContent":[".slide-grid {\n    user-select: none;\n    touch-action: none;  \n}\n\n.slide-grid > * {\n    position: relative;\n}\n\n.dragging {\n    z-index: 1;\n}"]}
