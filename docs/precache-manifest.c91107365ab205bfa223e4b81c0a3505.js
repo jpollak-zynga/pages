@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "451e7c86495f60a1f5ba7394c95616b2",
+    "revision": "bbe4d5fe65d513703a377b3db028c75f",
     "url": "/index.html"
   },
   {
-    "revision": "025c26c32880b7a6e01b",
+    "revision": "22919ecc26eed64bdd7d",
     "url": "/static/css/2.387e9a80.chunk.css"
   },
   {
-    "revision": "1be8530952f02c90b217",
+    "revision": "2365a5906402bd03caba",
     "url": "/static/css/main.171f53ce.chunk.css"
   },
   {
-    "revision": "025c26c32880b7a6e01b",
-    "url": "/static/js/2.1be2fa20.chunk.js"
+    "revision": "22919ecc26eed64bdd7d",
+    "url": "/static/js/2.58ac228c.chunk.js"
   },
   {
-    "revision": "1be8530952f02c90b217",
-    "url": "/static/js/main.fce2552e.chunk.js"
+    "revision": "2365a5906402bd03caba",
+    "url": "/static/js/main.c373f5db.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
+  },
+  {
+    "revision": "8745738d395f840779a496314a3c4975",
+    "url": "/static/media/help-badgerSettings.8745738d.png"
   },
   {
     "revision": "b13e99d42f52281865c164a5aa182585",
